@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: mytcsapp20290809
+  AZURE_WEBAPP_NAME: tcsaiapp
   PYTHON_VERSION: "3.11"
 
 jobs:
