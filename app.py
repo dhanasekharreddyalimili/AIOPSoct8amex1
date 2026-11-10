@@ -99,7 +99,7 @@ HTML = """
 </head>
 <body>
 <div class="container">
-    <h1>Azure AI Language Detection</h1>
+    <h1>TCA AI App for HR</h1>
     <p>Enter text below to identify its language.</p>
 
     <form method="POST">
